@@ -1,10 +1,8 @@
 # disquisitiones-arithmeticae-meta-errata
 
-## Background 
-
 Gauss's Disquisitiones Arithmeticae is available in the [original Latin](https://archive.org/details/werkecarlf01gausrich), as well as in two English editions: a notoriously poor softcover translation, $50, and a corrected edition of that translation, marked up to $200 by the villains at Springer.
 
-The publisher of the cheaper edition doesn't maintain an errata sheet, so I am maintaining here a list of errata published on the web (a list of lists, hence the repo's title).
+The publisher of the cheaper edition doesn't maintain an errata sheet, so I am maintaining here a list of errata published on the web for that edition (a list of lists, hence the repo's title).
 
 ### Contributing
 
